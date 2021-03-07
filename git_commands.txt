@@ -1,0 +1,42 @@
+git branch -M main 
+	rename master > main (political reasons)
+
+
+git checkout BRANCH_NAME
+	changes to branch
+
+git pull origin main
+	get files from repo
+
+git branch 
+	list branches
+
+git branch BRANCH_NAME 
+	creates a new local branch
+
+git checkout BRANCH_NAME
+	changes to branch to work there
+
+git add FILE
+	add file to git
+git add -A 
+	add ALL new files on the folder to git 
+
+git commit -m "MESSAGE"
+	commits changes to branch
+
+
+git push origin BRANCH_NAME
+	pushes branch to remote (github repo)
+
+git branch merged
+	list merged branches
+
+git merge BRANCH_NAME
+	merge branch to main 
+
+git push origin main 
+	push local main branch to remote main branch
+
+
+
