@@ -1,7 +1,6 @@
 git branch -M main 
 	rename master > main (political reasons)
 
-
 git checkout BRANCH_NAME
 	changes to branch
 
