@@ -1,4 +1,4 @@
-USEFUL BASIC GIT COMMANDS
+= USEFUL BASIC GIT COMMANDS =
 
 git branch -M main 
 	rename master > main (political reasons)
