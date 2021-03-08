@@ -26,7 +26,6 @@ git add -A
 git commit -m "MESSAGE"
 	commits changes to branch
 
-
 git push origin BRANCH_NAME
 	pushes branch to remote (github repo)
 
